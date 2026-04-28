@@ -6,7 +6,7 @@ class Mahasiswa
 public:
     int NIM;
     string nama;
-    int nilai;
+    float nilai;
 
     void printData()
     {
