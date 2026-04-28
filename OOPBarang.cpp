@@ -35,4 +35,8 @@ main ()
     nonElektronik.jumlah = 20;
     nonElektronik.kategori = "Non Elektronik";
     nonElektronik.tanggalProduksi = "2023-11-10";
+
+    // Output
+    elektronik.printData();
+    nonElektronik.printData();
 }
