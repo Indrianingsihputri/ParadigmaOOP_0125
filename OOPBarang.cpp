@@ -39,4 +39,6 @@ main ()
     // Output
     elektronik.printData();
     nonElektronik.printData();
+
+    return 0;
 }
