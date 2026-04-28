@@ -28,4 +28,11 @@ main ()
     elektronik.jumlah = 10;
     elektronik.kategori = "Elektronik";
     elektronik.tanggalProduksi = "2024-01-15";
+
+    // Object nonElektronik
+    Barang nonElektronik;
+    nonElektronik.nama = "Kursi";
+    nonElektronik.jumlah = 20;
+    nonElektronik.kategori = "Non Elektronik";
+    nonElektronik.tanggalProduksi = "2023-11-10";
 }
